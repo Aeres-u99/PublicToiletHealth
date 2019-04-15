@@ -1,0 +1,33 @@
+from urllib.request import urlopen
+import json
+
+token='731472091:AAGGqOJK_HEmYxpuHwMKwyZw25rJ9bLIThU'
+api_url="https://api.telegram.org/bot"
+
+def getMe():
+	 query=api_url+token+"/"
+	 Client=urlopen(query)
+	 page=Client.read()
+	 Client.close()
+	 json_page = json.loads(page)
+	 #return json_page
+	
+def sendMessage(text,chat_id):
+	 query=api_url+token+"/sendMessage?chat_id="+chat_id+"&text="+text
+	 Client=urlopen(query)
+         
+	 page=Client.read()
+         
+         
+	 Client.close()
+	 json_page = json.loads(page)
+	 #return json_page
+	 
+	 
+def getUpdates():
+	 query=api_url+token+"/"+getUpdates
+	 Client=urlopen(query)
+	 page=Client.read()
+	 Client.close()
+	 json_page = json.loads(page)
+	 #return json_page

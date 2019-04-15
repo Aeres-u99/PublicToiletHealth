@@ -1,0 +1,33 @@
+
+
+{"LDR Value": "200", "Person Counter": "1", "Gas Sensor": "20"}
+{"LDR Value": "200", "Person Counter": "1", "Gas Sensor": "20"}
+{"LDR Value": "200", "Person Counter": "1", "Gas Sensor": "20"}
+{"LDR Value": "200", "Person Counter": "1", "Gas Sensor": "20", "Water Level": "40"}
+{"LDR Value": "200", "Person Counter": "1", "Gas Sensor": "20", "Water Level": "40"}
+{"LDR Value": "200", "Person Counter": "2", "Gas Sensor": "22", "Water Level": "41"}
+{"LDR Value": "800", "Person Counter": "2", "Gas Sensor": "100", "Water Level": "41"}
+{"LDR Value": "800", "Person Counter": "2", "Gas Sensor": "10", "Water Level": "10"}
+{"Gas Sensor": "10", "Person Counter": "2", "LDR Value": "800", "Water Level": "10"}
+{"Gas Sensor": "10", "Person Counter": "2", "LDR Value": "800", "Water Level": "10"}
+{"LDR Value": "800", "Gas Sensor": "10", "Person Counter": "2", "Water Level": "10"}
+{"LDR Value": "800", "Gas Sensor": "10", "Person Counter": "2", "Water Level": "10"}
+{"LDR Value": "800", "Water Level": "10", "Person Counter": "2", "Gas Sensor": "10"}
+{"LDR Value": "983", "Person Counter": "3", "Water Level": "87", "Gas Sensor": "6.45"}
+{"LDR Value": "800", "Person Counter": "2", "Water Level": "10", "Gas Sensor": "10"}
+{"LDR Value": "800", "Person Counter": "2", "Water Level": "10", "Gas Sensor": "10"}
+{"LDR Value": "976", "Person Counter": "20", "Water Level": "70", "Gas Sensor": "20"}
+{"LDR Value": "976", "Person Counter": "20", "Water Level": "10", "Gas Sensor": "90"}
+{"LDR Value": "976", "Person Counter": "20", "Water Level": "100", "Gas Sensor": "90"}
+{"LDR Value": "976", "Person Counter": "20", "Water Level": "100", "Gas Sensor": "70"}
+{"Water Level": "7", "Person Counter": "48", "LDR Value": "965", "Gas Sensor": "36.66"}
+{"Water Level": "6", "Person Counter": "65", "LDR Value": "937", "Gas Sensor": "34.21"}
+{"Water Level": "7", "Person Counter": "26", "LDR Value": "997", "Gas Sensor": "0.68"}
+{"Gas Sensor": "20", "Water Level": "40", "Person Counter": "1", "LDR Value": "200"}
+{"Gas Sensor": "99", "Water Level": "40", "Person Counter": "1", "LDR Value": "200"}
+{"Gas Sensor": "10", "Water Level": "40", "Person Counter": "1", "LDR Value": "900"}
+{"Gas Sensor": "10", "Water Level": "12", "Person Counter": "1", "LDR Value": "900"}
+{"Water Level": "12", "LDR Value": "900", "Gas Sensor": "10", "Person Counter": "1"}
+{"LDR Value": "800", "Water Level": "10", "Person Counter": "2", "Gas Sensor": "10"}
+{"Gas Sensor": "7.72", "Water Level": "72", "LDR Value": "933", "Person Counter": "107"}
+{"Gas Sensor": "3.32", "Water Level": "84", "LDR Value": "69", "Person Counter": "107"}
